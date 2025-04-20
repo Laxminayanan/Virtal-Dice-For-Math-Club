@@ -1,4 +1,4 @@
-# Virtal-Dice-For-Math-Club
+# Virtual-Dice-For-Math-Club
 
 
 This is a simple **Virtual Dice** application created for the **MathClub** MathActivity. The application simulates rolling dice for use in math-related activities or games. It is designed using basic web technologies: HTML, CSS, and JavaScript.
